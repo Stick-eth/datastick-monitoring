@@ -33,10 +33,8 @@ Un outil pour récupérer et visualiser facilement des données financières d'e
 
 Accéder à l'interface via : http://127.0.0.1:8050
 Sélectionner un ticker pour afficher les données financières (CONNEXION DATABASE SOON)
+- Nécessite une connexion Google OAuth
 
 ## To - do list
-- [ ] Fetch des stocks en automatique
-- [ ] Méthode d'Authentification
-
 - [ ] Core : Orienter la vision de l'app vers un outil de gestion tout en 1 avec du calcul de répartition cohérent des actifs
 - [ ] Core : Création portfolio orienté patrimoine (+dump offline des données)
